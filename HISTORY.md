@@ -1,3 +1,7 @@
+1.2.32.p2 2016-10-06
+--------------------
+- Removed annoying missing Kerberos error (NODE-654)
+
 1.2.32.p1 2016-10-05
 --------------------
 - cherry-picked require_optional to allow optional kerberos dependency
