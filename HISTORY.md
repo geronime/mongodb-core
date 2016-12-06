@@ -1,3 +1,7 @@
+1.2.32.p3 2016-12-06
+--------------------
+- Fix for not picking any mongos proxy in case there are some available
+
 1.2.32.p2 2016-10-06
 --------------------
 - Removed annoying missing Kerberos error (NODE-654)
